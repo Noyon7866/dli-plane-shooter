@@ -10,8 +10,8 @@ const ctx = canvas.getContext("2d");
 const playerImg = new Image();
 const enemyImg = new Image();
 
-playerImg.src = "assets/player.png";
-enemyImg.src = "assets/enemy.png";
+playerImg.src = "player.png";
+enemyImg.src = "enemy.png";
 
 
 /* =========================
